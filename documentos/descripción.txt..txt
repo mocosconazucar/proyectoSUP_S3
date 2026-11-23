@@ -1,0 +1,3 @@
+Nombre: Andre
+Curso: 3°D
+Descripción del proyecto: Este proyecto consiste en desarrollar un programa interactivo básico en Python utilizando Visual Studio Code. El objetivo es practicar la creación y ejecución de scripts, la detección de errores de sintaxis, el uso de herramientas del editor y el control de versiones subiendo el trabajo a un repositorio en GitHub.
